@@ -55,13 +55,3 @@ So, we applied various deep learning techniques and in turn, gained a much bette
 ## Directory Structure
 - ```src``` folder contains the source code. 
 - ```data``` folder contains .npy files which contain calculated histograms. 
- 
-## Running the code
-Any changes which need to be made, must be made in the code block under the heading "Main" only
-
-1. Open your software of choice (Google Colab, Jupyter Notebook etc.)
-2. Navigate to ```src``` folder. (If using Google Colab, upload the file inside ```src``` from your local PC to the colab repository)
-3. Load the file
-4. Run the file
-5. If you want to make any changes to things like number of robots, goal point of robots, where to save the outputs, whether you want to save outputs or not etc., make necessary changes in the cell block under the heading "Main". The cell block is self-explanatory.
-6. Install any necessary libraries if needed
