@@ -67,7 +67,7 @@ Since this paper is from 2009, it focused only upon classification using SVMs. W
 So, we applied various deep learning techniques and in turn, gained a much better understanding of deep learning and how convolutional neural networks help in improving accuracy.
 
 <p align="center">
-  ### -- 10% Overall accuracy improvement with Deep Learning -- 
+  -- 10% Overall accuracy improvement with Deep Learning -- 
   </p>
 
 ## Directory Structure
