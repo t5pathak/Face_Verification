@@ -22,9 +22,9 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
 5. For each face region and each space taken into consideration, histogram is calculated over 100 bins.
 
 <p align="center">
-  <img width="892" alt="1" src="https://user-images.githubusercontent.com/44245211/137928381-ce172518-4473-4baf-b674-e2711bfe5bfb.png" height="200">
-  <img width="1086" alt="2" src="https://user-images.githubusercontent.com/44245211/137928422-d4616974-4e76-476c-8761-b0f216edc426.png" height="200">
-  <img width="683" alt="3" src="https://user-images.githubusercontent.com/44245211/137928415-6a11ca93-00ed-4808-8fde-4130a0a9e46f.png" height="200">
+  <img width="892" alt="1" src="https://user-images.githubusercontent.com/44245211/137928381-ce172518-4473-4baf-b674-e2711bfe5bfb.png">
+  <img width="1086" alt="2" src="https://user-images.githubusercontent.com/44245211/137928422-d4616974-4e76-476c-8761-b0f216edc426.png">
+  <img width="683" alt="3" src="https://user-images.githubusercontent.com/44245211/137928415-6a11ca93-00ed-4808-8fde-4130a0a9e46f.png">
 </p>
 
 ## Attribute Classifier details
@@ -53,6 +53,29 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
 4. The output of simile and attribute classifier from each pair of images is concatenated.
 5. We generated labels for this dataset. If the outputs of simile and attribute classifiers belong to the same person, then the label is +1. Else it is 0.
 6. We trained the SVM.
+
+<p align="center">
+  <figure>
+    <img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+  </figure>
+  
+    <figure>
+      <img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+  </figure>
+  
+    <figure>
+    <img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+  </figure>
+  
+    <figure>
+    <img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+  </figure>
+  
+</p>
 
 ## BONUS
 Since this paper is from 2009, it focused only upon classification using SVMs. We completed its implementations, and then tried to think of better techniques to improve verification accuracy.
