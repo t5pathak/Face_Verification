@@ -1,5 +1,11 @@
 # Attribute and Simile Classifiers for Face Verification
 
+## Directory Structure
+- ```src``` folder contains the source code. 
+- ```data``` folder contains .npy files which contain calculated histograms.
+
+_________________________________________________________________________________________________________________________________________________________________
+
 ## Overview 
 1. Low Level Feature extraction: In this part, we extract a vector corresponding to each face region of a face.
 2. Attribute Classifier: The extracted vectors for a face is checked for the presence of various attributes like
@@ -74,8 +80,4 @@ So, we applied various deep learning techniques and in turn, gained a much bette
 
 <p align="center">
   -- 10% Overall accuracy improvement with Deep Learning -- 
-  </p>
-
-## Directory Structure
-- ```src``` folder contains the source code. 
-- ```data``` folder contains .npy files which contain calculated histograms. 
+  </p> 
