@@ -59,7 +59,7 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
 </p>
 
 <p align="center">
-  True Positive » » » » » » » » » » » True Negative
+  True Positive True Negative
   </p>
 
 <p align="center">
