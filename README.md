@@ -22,9 +22,9 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
 5. For each face region and each space taken into consideration, histogram is calculated over 100 bins.
 
 <p align="center">
-  <img width="892" alt="1" src="https://user-images.githubusercontent.com/44245211/137928381-ce172518-4473-4baf-b674-e2711bfe5bfb.png">
-  <img width="1086" alt="2" src="https://user-images.githubusercontent.com/44245211/137928422-d4616974-4e76-476c-8761-b0f216edc426.png">
-  <img width="683" alt="3" src="https://user-images.githubusercontent.com/44245211/137928415-6a11ca93-00ed-4808-8fde-4130a0a9e46f.png">
+  <img width="892" alt="1" src="https://user-images.githubusercontent.com/44245211/137928381-ce172518-4473-4baf-b674-e2711bfe5bfb.png" height="200">
+  <img width="1086" alt="2" src="https://user-images.githubusercontent.com/44245211/137928422-d4616974-4e76-476c-8761-b0f216edc426.png" height="200">
+  <img width="683" alt="3" src="https://user-images.githubusercontent.com/44245211/137928415-6a11ca93-00ed-4808-8fde-4130a0a9e46f.png" height="200">
 </p>
 
 ## Attribute Classifier details
