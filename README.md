@@ -54,13 +54,15 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
 5. We generated labels for this dataset. If the outputs of simile and attribute classifiers belong to the same person, then the label is +1. Else it is 0.
 6. We trained the SVM.
 
-|Name |Quantity|
+|True Positive |True Negative|
 |-----|--------|
-|Apple|3       |
-|Egg  |12      |
+|<img width="486" alt="tp" src="https://user-images.githubusercontent.com/44245211/137930750-22f4708b-5706-4370-ba7d-c78967cada0d.png">|<img width="460" alt="tn" src="https://user-images.githubusercontent.com/44245211/137930691-aa2c9e6a-5a9a-4f6e-b379-f68f14d33c93.png">|
+|False Positive |False Negative|
+|-----|--------|
+|<img width="501" alt="fp" src="https://user-images.githubusercontent.com/44245211/137930733-213b7ff5-f027-4e48-b173-6b6d4b1cdb87.png">  |<img width="502" alt="fn" src="https://user-images.githubusercontent.com/44245211/137930747-8f5cffaa-6020-42d3-a465-5898c015df7b.png">|
 
 <p align="center">
-  <img width="486" alt="tp" src="https://user-images.githubusercontent.com/44245211/137930750-22f4708b-5706-4370-ba7d-c78967cada0d.png"> <img width="460" alt="tn" src="https://user-images.githubusercontent.com/44245211/137930691-aa2c9e6a-5a9a-4f6e-b379-f68f14d33c93.png"> <br \>
+    <br \>
 </p>
 
 <p align="center">
@@ -68,7 +70,6 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
   </p>
 
 <p align="center">
-  <img width="501" alt="fp" src="https://user-images.githubusercontent.com/44245211/137930733-213b7ff5-f027-4e48-b173-6b6d4b1cdb87.png"> <img width="502" alt="fn" src="https://user-images.githubusercontent.com/44245211/137930747-8f5cffaa-6020-42d3-a465-5898c015df7b.png">
 </p>
 
 ## BONUS
