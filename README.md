@@ -66,7 +66,9 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
 Since this paper is from 2009, it focused only upon classification using SVMs. We completed its implementations, and then tried to think of better techniques to improve verification accuracy.
 So, we applied various deep learning techniques and in turn, gained a much better understanding of deep learning and how convolutional neural networks help in improving accuracy.
 
-### -- 10% Overall accuracy improvement with Deep Learning -- 
+<p align="center">
+  ### -- 10% Overall accuracy improvement with Deep Learning -- 
+  </p>
 
 ## Directory Structure
 - ```src``` folder contains the source code. 
