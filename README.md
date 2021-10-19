@@ -54,6 +54,11 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
 5. We generated labels for this dataset. If the outputs of simile and attribute classifiers belong to the same person, then the label is +1. Else it is 0.
 6. We trained the SVM.
 
+|Name |Quantity|
+|-----|--------|
+|Apple|3       |
+|Egg  |12      |
+
 <p align="center">
   <img width="486" alt="tp" src="https://user-images.githubusercontent.com/44245211/137930750-22f4708b-5706-4370-ba7d-c78967cada0d.png"> <img width="460" alt="tn" src="https://user-images.githubusercontent.com/44245211/137930691-aa2c9e6a-5a9a-4f6e-b379-f68f14d33c93.png"> <br \>
 </p>
