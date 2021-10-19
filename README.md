@@ -55,12 +55,8 @@ classifiers to obtain a trait vector for each face. Now verification classifier 
 6. We trained the SVM.
 
 <p align="center">
-  <figure>
-    <img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
-  </figure>
-  
-</p>
+  <img width="892" alt="1" src="https://user-images.githubusercontent.com/44245211/137928381-ce172518-4473-4baf-b674-e2711bfe5bfb.png" title = "title">
+  </p>
 
 ## BONUS
 Since this paper is from 2009, it focused only upon classification using SVMs. We completed its implementations, and then tried to think of better techniques to improve verification accuracy.
